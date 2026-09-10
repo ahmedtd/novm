@@ -1,7 +1,6 @@
 gorc
 bin
 dist
-pkg
 _obj
 debbuild/
 rpmbuild/
